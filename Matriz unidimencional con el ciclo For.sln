@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matriz unidimencional con el ciclo For", "Matriz unidimencional con el ciclo For\Matriz unidimencional con el ciclo For.csproj", "{0164142A-F2FA-496D-A20B-37312672ADAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0164142A-F2FA-496D-A20B-37312672ADAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0164142A-F2FA-496D-A20B-37312672ADAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0164142A-F2FA-496D-A20B-37312672ADAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0164142A-F2FA-496D-A20B-37312672ADAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7F5C2C9-7562-4218-BB26-0AA2FD9F21C7}
+	EndGlobalSection
+EndGlobal
